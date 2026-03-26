@@ -8,8 +8,8 @@ class Solution {
         a++;
             }
         }
-        while(a < n){
-            nums[a++] = 0;
+        for(int j = a;j<n;j++){
+            nums[j] = 0;
+        }
         }
     }
-}
