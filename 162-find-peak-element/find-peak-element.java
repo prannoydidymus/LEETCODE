@@ -1,18 +1,20 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        int n = nums.length;
-        if(n ==0){
-            return -1;
-        }
-        int maxElement  = nums[0];
-        int maxIndex = 0;
-        for(int i = 1;i<n;i++){
-            if(nums[i]>maxElement){
-                maxElement = nums[i];
-                maxIndex = i;
-            }
+int n = nums.length;
+if(n == 0){
+    return -1;
+}
+    int max = nums[0];
+    int index = 0;
 
-        }
-        return maxIndex;
+for(int i =1;i<n;i++){
+if(nums[i] > max){
+    max = nums[i];
+    index = i;
+}
+
+}
+return index;
     }
 }
+
