@@ -5,8 +5,7 @@ class Solution {
         reverse(nums,0,k-1);
         reverse(nums,k,nums.length-1);
     }
-
-    private void reverse(int[] arr,int start,int end){
+    public void reverse(int[] arr,int start,int end){
         while(start<=end){
             int temp = arr[start];
             arr[start] = arr[end];
