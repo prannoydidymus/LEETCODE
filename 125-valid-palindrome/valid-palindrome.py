@@ -5,3 +5,4 @@ class Solution:
             if i.isalnum():
                 new += i.lower()
         return new == new[::-1]
+
