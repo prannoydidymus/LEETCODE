@@ -3,7 +3,6 @@ class Solution:
         left = 0
         right = len(height) - 1
         water = 0
-
         while left < right:
             width = right - left
             current = min(height[left],height[right])
