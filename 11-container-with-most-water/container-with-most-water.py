@@ -5,9 +5,9 @@ class Solution:
         water = 0
         while left < right:
             width = right - left
-            current = min(height[left],height[right])
-            curwater = width * current
-            water = max(water,curwater)
+            curwater = min(height[left],height[right])
+            current = width * curwater
+            water = max(water,current)
 
             if height[left] < height[right]:
                 left += 1
