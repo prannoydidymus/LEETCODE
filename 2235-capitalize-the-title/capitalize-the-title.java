@@ -1,17 +1,17 @@
 class Solution {
     public String capitalizeTitle(String title) {
-       char[] charar = title.toCharArray();
-       int len = charar.length;
-       for(int i = 0;i<len;i++){
-         int first = i;
-         while(i < len && charar[i] != ' '){
-         charar[i] = Character.toLowerCase(charar[i]);
-         i++;
-         }
-         if(i - first > 2){
-            charar[first] = Character.toUpperCase(charar[first]);
-         }
-       } 
-       return String.valueOf(charar);
-    }
+        char[] arr = title.toCharArray();
+        int n = arr.length;
+        for(int i = 0;i<n;i++){
+            int index = i;
+        while(i < n && arr[i] != ' '){
+            arr[i] = Character.toLowerCase(arr[i]);
+            i++;
+        }
+        if(i - index > 2){
+            arr[index] = Character.toUpperCase(arr[index]);
+        }
+        }
+        return String.valueOf(arr);
+}
 }
