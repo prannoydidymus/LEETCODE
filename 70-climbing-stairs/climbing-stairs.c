@@ -1,12 +1,12 @@
 int climbStairs(int n) {
-    long long int prv1 = 1;
-    long long int prv2 = 1;
-
-    for (int i = 0; i < n; i++) {
-        long long int tmp = prv1;
-        prv1 = prv1 + prv2;
-        prv2 = tmp;
+    int c = 0,b=2,a=1;
+    if(n == 2 || n == 1){
+        return n;
     }
-
-    return (int)prv2;
-}
+        for(int i = 3;i<=n;i++){
+     c = b+a;
+     a = b;
+     b = c;
+        }
+     return c;    
+    }
