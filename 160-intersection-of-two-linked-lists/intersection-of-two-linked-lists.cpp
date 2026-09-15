@@ -9,17 +9,23 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-    if (!headA || !headB) return nullptr;
+        if(!headA || !headB) return nullptr;
+        ListNode *tempA = headA,*tempB  = headB;
+        while(tempA !=  tempB){
 
-    ListNode *tempA = headA;
-    ListNode *tempB = headB;
-
-    while (tempA != tempB) {
-        // Move forward, or switch to the other list when reaching end
-        tempA = (tempA == nullptr) ? headB : tempA->next;
-        tempB = (tempB == nullptr) ? headA : tempB->next;
+            if(tempB == nullptr){
+                tempB = headA;
+            }
+            else{
+            tempB = tempB->next;
+            }
+            if(tempA == nullptr){
+                tempA = headB;
+            }
+            else{
+            tempA = tempA->next;
+            }
+        }
+return tempA;
     }
-
-    return tempA; // Either intersection node or nullptr
-}
 };
