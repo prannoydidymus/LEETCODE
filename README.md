@@ -16,4 +16,16 @@
 | [0620-not-boring-movies](https://github.com/prannoydidymus/LEETCODE/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/prannoydidymus/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/prannoydidymus/LEETCODE/tree/master/1148-article-views-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prannoydidymus/LEETCODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prannoydidymus/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/prannoydidymus/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
