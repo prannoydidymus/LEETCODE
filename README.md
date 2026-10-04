@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/prannoydidymus/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
