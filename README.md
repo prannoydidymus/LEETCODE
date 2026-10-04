@@ -23,12 +23,23 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prannoydidymus/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prannoydidymus/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prannoydidymus/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
