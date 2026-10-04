@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prannoydidymus/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -45,5 +46,22 @@
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prannoydidymus/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
