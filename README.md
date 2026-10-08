@@ -25,6 +25,7 @@
 | [1280-students-and-examinations](https://github.com/prannoydidymus/LEETCODE/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prannoydidymus/LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/prannoydidymus/LEETCODE/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/prannoydidymus/LEETCODE/tree/master/1741-find-total-time-spent-by-each-employee) |
 ## String
 |  |
 | ------- |
