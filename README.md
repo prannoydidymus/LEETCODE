@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Minimax
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
