@@ -30,6 +30,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/prannoydidymus/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/prannoydidymus/LEETCODE/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prannoydidymus/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3436-find-valid-emails](https://github.com/prannoydidymus/LEETCODE/tree/master/3436-find-valid-emails) |
 ## String
 |  |
 | ------- |
