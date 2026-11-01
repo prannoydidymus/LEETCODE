@@ -75,11 +75,13 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prannoydidymus/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prannoydidymus/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
