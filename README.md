@@ -33,6 +33,7 @@
 | [1890-the-latest-login-in-2020](https://github.com/prannoydidymus/LEETCODE/tree/master/1890-the-latest-login-in-2020) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prannoydidymus/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/prannoydidymus/LEETCODE/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/prannoydidymus/LEETCODE/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## String
 |  |
 | ------- |
