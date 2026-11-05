@@ -85,6 +85,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/prannoydidymus/LEETCODE/tree/master/0877-stone-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prannoydidymus/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prannoydidymus/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prannoydidymus/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prannoydidymus/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -107,9 +108,15 @@
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prannoydidymus/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prannoydidymus/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prannoydidymus/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prannoydidymus/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prannoydidymus/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
