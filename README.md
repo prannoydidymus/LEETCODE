@@ -33,6 +33,7 @@
 | [1211-queries-quality-and-percentage](https://github.com/prannoydidymus/LEETCODE/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/prannoydidymus/LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/prannoydidymus/LEETCODE/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/prannoydidymus/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prannoydidymus/LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/prannoydidymus/LEETCODE/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/prannoydidymus/LEETCODE/tree/master/1587-bank-account-summary-ii) |
