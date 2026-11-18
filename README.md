@@ -29,6 +29,7 @@
 | [1084-sales-analysis-iii](https://github.com/prannoydidymus/LEETCODE/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/prannoydidymus/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/prannoydidymus/LEETCODE/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/prannoydidymus/LEETCODE/tree/master/1179-reformat-department-table) |
 | [1280-students-and-examinations](https://github.com/prannoydidymus/LEETCODE/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prannoydidymus/LEETCODE/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/prannoydidymus/LEETCODE/tree/master/1517-find-users-with-valid-e-mails) |
